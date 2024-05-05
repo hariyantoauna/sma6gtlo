@@ -47,6 +47,8 @@
                     ini. Menaklukkan berbagai ujian, baik yang berada di dalam maupun di luar kelas. Terus tumbuh,
                     belajar, dan berkembang menjadi individu yang tangguh dan berbakat.
                     <b>SELAMAT, Anda dinyatakan LULUS</b>
+                    <br>
+                    <a class="btn btn-dark my-4" href="/">Kembali</a>
                 </div>
             </div>
         </div>
