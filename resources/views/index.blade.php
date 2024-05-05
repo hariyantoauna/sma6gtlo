@@ -17,17 +17,21 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <style>
         body {
-
+            background-image: url('/img/bg2.jpg');
             background-size: 100% auto;
             background-attachment: fixed;
 
-
+            background-size: cover;
+            background-position: bottom;
             font-family: "Roboto", sans-serif;
             font-weight: 300;
             font-style: normal;
 
 
+
         }
+
+
 
         div .abcRioButton {
             width: 100%;
@@ -38,6 +42,7 @@
 </head>
 
 <body class="p-3">
+    <img src="" alt="">
     <div class="row justify-content-md-center " style="margin-top: 20px;">
         <div class="col-lg-5 ">
             <div class="card">
